@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saqib Rangrez</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="450px" height="400px"/>
+<img align="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="460px" height="400px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqib-rangrez&label=Profile%20views&color=0e75b6&style=flat" alt="saqib-rangrez" /> </p>
 
