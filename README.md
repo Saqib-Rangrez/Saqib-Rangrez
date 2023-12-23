@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [StudyNotion](https://studynotionacademy.netlify.app/)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **React, Web Development, Full Stack Development**
 
