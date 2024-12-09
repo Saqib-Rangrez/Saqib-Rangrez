@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqib-rangrez&label=Profile%20views&color=0e75b6&style=flat" alt="saqib-rangrez" /> </p>
 
-- 🔭 I’m currently working on [StudyNotion](https://studynotionacademy.netlify.app/)
+- 🔭 I’m currently working on some awsome GenAI Applications.
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Generative Artificial Intelligence**
 
-- 💬 Ask me about **React, Web Development, Full Stack Development**
+- 💬 Ask me about **.Net, MERN, Web Development, Full Stack Development**
 
 - 📫 How to reach me **saqibrangrez134@gmail.com**
 
